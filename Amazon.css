@@ -114,7 +114,7 @@ justify-content: space-evenly;
 }
 /* header end */
 .hero{
-    background-image: url(../htmlcode/images/hero_image.jpg);
+    background-image: url(/amazonimg/hero_image.jpg);
     width: 84.3rem;
     height: 28rem;
     background-size: cover;
@@ -162,7 +162,7 @@ justify-content: space-evenly;
     margin-right: 1rem;
 }
 .img1{
-    background-image: url(../htmlcode/images/box2_image.jpg);
+    background-image: url(/amazonimg/box2_image.jpg);
     background-size: cover;
     height: 300px;
     margin-top: 1rem ;
@@ -172,42 +172,42 @@ justify-content: space-evenly;
     color: #007185;
 }
 .img2{
-    background-image: url(../htmlcode/images/box1_image.jpg);
+    background-image: url(/amazonimg/box1_image.jpg);
     background-size: cover;
     height: 300px;
     width: 270px;
     margin-top: 1rem ;
     margin-bottom: 1rem ;
 }.img3{
-    background-image: url(../htmlcode/images/box3_image.jpg);
+    background-image: url(/amazonimg/box3_image.jpg);
     background-size: cover;
     height: 300px;
     width: 270px;
     margin-top: 1rem ;
     margin-bottom: 1rem ;
 }.img4{
-    background-image: url(../htmlcode/images/box4_image.jpg);
+    background-image: url(/amazonimg/box4_image.jpg);
     background-size: cover;
     height: 300px;
     width: 270px;
     margin-top: 1rem ;
     margin-bottom: 1rem ;
 }.img5{
-    background-image: url(../htmlcode/images/box5_image.jpg);
+    background-image: url(/amazonimg/box5_image.jpg);
     background-size: cover;
     height: 300px;
     width: 270px;
     margin-top: 1rem ;
     margin-bottom: 1rem ;
 }.img6{
-    background-image: url(../htmlcode/images/box6_image.jpg);
+    background-image: url(/amazonimg/box6_image.jpg);
     background-size: cover;
     height: 300px;
     width: 270px;
     margin-top: 1rem ;
     margin-bottom: 1rem ;
 }.img7{
-    background-image: url(../htmlcode/images/box7_image.jpg);
+    background-image: url(/amazonimg/box7_image.jpg);
     background-size: cover;
     height: 300px;
     width: 270px;
@@ -215,7 +215,7 @@ justify-content: space-evenly;
     margin-bottom: 1rem ;
     
 }.img8{
-    background-image: url(../htmlcode/images/box8_image.jpg);
+    background-image: url(/amazonimg/box8_image.jpg);
     background-size: cover;
     height: 300px;
     margin-top: 1rem ;
@@ -269,7 +269,7 @@ ul{ display: block;
     align-items: center;
 }
 .logo{
-    background-image: url(../htmlcode/images/amazon_logo.png);
+    background-image: url(/amazonimg/amazon_logo.png);
     background-size: cover;
     height: 50px;
     width: 100px;
